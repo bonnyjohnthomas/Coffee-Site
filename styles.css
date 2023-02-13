@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(212, 185, 126);
+}
+
+
+#i1{
+    margin: 0%;
+    background-color: rgb(158, 90, 50);
+     font-size: 100px;
+    font-family: 'Black Ops One', cursive;
+   
+}
+
+#i2{
+    
+    background-color: rgb(158, 90, 50);
+    position: sticky;
+    top: 0px;
+}
+
+#i3{
+        font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#i4{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 20px;
+    text-align:justify;
+}
+
+.c1{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+
+.c2{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+.c4{
+    margin-top: 2px;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+
+
+.c3{
+    padding: 25px;
+}
+    
+#i6{
+    font-size: 20px;
+    padding: 30px;
+}
+#i7{
+    
+    padding: 100px;
+}
+
+#i8{
+    margin-left:1285px; 
+    position: sticky;
+    top : 250px;  
+   
+}
+
+#i9{
+    
+    font-size: 50px;
+    background-color: rgb(158,90, 50);
+    
+}
+
+#i10{
+   width: 100%;
+   background-color: rgb(158, 90, 50);
+}
+
+#i11{
+    width: 800px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 20px;
+    text-align:justify;
+    background-color: rgb(158, 90, 50);
+}
+
+.footer{
+    
+    background-color: rgb(158, 90, 50);
+    
+    margin-top: 170px;
+    width:100;
+    padding:  ;
+    
+    display: flex;
+}
+
+.footer div{
+    text-align: center;
+}
+
+.col-1{
+    margin-left: 50px ;
+    font-size: 100px;
+}
+
+.col-2{
+    flex-grow: 1;
+}
+
+.footer div h3{
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
